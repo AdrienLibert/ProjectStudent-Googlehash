@@ -1,0 +1,5 @@
+# Ce fichier contient les modules pip requis par le projet
+pytest
+tk
+imageio
+Pillow
